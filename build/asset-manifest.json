@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Venky9630/MonstersRolodexGallary/static/css/main.091f4d44.chunk.css",
+    "main.js": "/Venky9630/MonstersRolodexGallary/static/js/main.7fc6a45b.chunk.js",
+    "main.js.map": "/Venky9630/MonstersRolodexGallary/static/js/main.7fc6a45b.chunk.js.map",
+    "runtime-main.js": "/Venky9630/MonstersRolodexGallary/static/js/runtime-main.7c290819.js",
+    "runtime-main.js.map": "/Venky9630/MonstersRolodexGallary/static/js/runtime-main.7c290819.js.map",
+    "static/js/2.4058bf1b.chunk.js": "/Venky9630/MonstersRolodexGallary/static/js/2.4058bf1b.chunk.js",
+    "static/js/2.4058bf1b.chunk.js.map": "/Venky9630/MonstersRolodexGallary/static/js/2.4058bf1b.chunk.js.map",
+    "static/js/3.7d037c68.chunk.js": "/Venky9630/MonstersRolodexGallary/static/js/3.7d037c68.chunk.js",
+    "static/js/3.7d037c68.chunk.js.map": "/Venky9630/MonstersRolodexGallary/static/js/3.7d037c68.chunk.js.map",
+    "index.html": "/Venky9630/MonstersRolodexGallary/index.html",
+    "static/css/main.091f4d44.chunk.css.map": "/Venky9630/MonstersRolodexGallary/static/css/main.091f4d44.chunk.css.map",
+    "static/js/2.4058bf1b.chunk.js.LICENSE.txt": "/Venky9630/MonstersRolodexGallary/static/js/2.4058bf1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c290819.js",
+    "static/js/2.4058bf1b.chunk.js",
+    "static/css/main.091f4d44.chunk.css",
+    "static/js/main.7fc6a45b.chunk.js"
+  ]
+}
